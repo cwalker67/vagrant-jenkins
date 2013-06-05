@@ -13,5 +13,6 @@ include apt
 include stdlib
 
 include git
+include svn
 include java
 include jenkins
